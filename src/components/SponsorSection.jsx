@@ -1,11 +1,11 @@
 import React from 'react';
 
-import title1 from '../assets/sponsors/SonaliJewellersGujaratTitleSp1.jpg';
-import gold1 from '../assets/sponsors/JayanNaikerRealtorGoldSp1.jpg';
-import gold2 from '../assets/sponsors/KirtiKumarSoniAccountantGoldSp2.jpg';
-import silver1 from '../assets/sponsors/MitalPatelRealtorSilverSp1.jpg';
-import silver2 from '../assets/sponsors/DarshanNashitSilverSp2.jpg';
-import silver3 from '../assets/sponsors/iSourceSilverSp3.jpg';
+import title1 from '../assets/sponsors/TitleSponsors/SonaliJewellersGujaratTitleSp1.jpg';
+import gold1 from '../assets/sponsors/GoldSponsors/JayanNaikerRealtorGoldSp1.jpg';
+import gold2 from '../assets/sponsors/GoldSponsors/KirtiKumarSoniAccountantGoldSp2.jpg';
+import silver1 from '../assets/sponsors/SilverSponsors/MitalPatelRealtorSilverSp1.jpg';
+import silver2 from '../assets/sponsors/SilverSponsors/DarshanNashitSilverSp2.jpg';
+import silver3 from '../assets/sponsors/SilverSponsors/JainishParmarOpticianSilverSp3.jpg.jpg';
 
 // Updated sponsor arrays with name + image
 const titleSponsors = [

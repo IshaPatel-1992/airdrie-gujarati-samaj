@@ -20,10 +20,10 @@ export default function Navbar() {
         {/* Logo instead of text */}
         <div className="flex items-center">
           <img
-            src={logo}
-            alt="Airdrie Gujarati Samaj Logo"
-            className="h-18 w-auto"  // Adjust height as needed
-          />
+  src={logo}
+  alt="Airdrie Gujarati Samaj Logo"
+  className="h-18 w-auto bg-white rounded p-1"
+/>
         </div>
 
         {/* Hamburger button visible only on small screens */}
