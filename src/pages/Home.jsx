@@ -1,7 +1,7 @@
 import React from "react";
 import heroImage from "../assets/GujC1Resized.jpg";
 import diya from "../assets/D1.jpeg";
-import garba from "../assets/P4.jpeg";
+import garba from "../assets/N3.jpeg";
 import picnic from "../assets/P3.jpeg";
 
 export default function Home() {
